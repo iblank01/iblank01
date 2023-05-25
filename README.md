@@ -1,4 +1,4 @@
 - 👋 Hello, I’m Ian Blankenship, a Computer Science student with an interest in becoming a Software Engineer
 - I am interested in developing my ability to solve problems and form creative solutions utilizing various programming languages
-- Currently I know the languages HTML, CSS, C, C++, Javascript, PHP, and am furthering my understanding in these languages
+- Currently I know the languages C, C++, HTML, CSS, Javascript, PHP, and am furthering my understanding in these languages
 - I am looking to learn and gain an in-depth understanding of Python and C++ in addition to the other languages listed 
